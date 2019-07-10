@@ -2,51 +2,28 @@
 # avatar
 avatar: /avatar/Misaka.jpg
 # author name
-author: fi3ework
+author: Godblk
 # signature
-signature: witness me
+signature: Godblk
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
-  # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
-  qq: 
-  telegram: 
-  weibo: 
-  zhihu: 
-  douban: 
-  facebook: 
-  twitter: 
-  instagram: 
-  stack-overflow: 
-  segmentFault: 
-  juejin: 
-  v2ex: 
-  bilibili: 
-  linkedin: 
-  steam: 
-  others: 
-  rss: 
+  github: //github.com/Godblk
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
 about:
-  enable: true
+  enable: false
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: Godblk
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
-  - 'hexo-theme'
-  - 'hexo-blog'
+  - 'react-native'
+  - 'ios'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Godblk
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
